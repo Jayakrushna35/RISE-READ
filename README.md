@@ -31,47 +31,47 @@ Rise & Read is a responsive book website that allows users to browse, select, an
 - **ScrollReveal.js**: For scroll animations.
 
 ## Project Structure
-Rise & Read/
-├── assets/
-│   ├── css/
-│   │   ├── styles.css
-│   │   └── swiper-bundle.min.css
-│   ├── img/
-│   │   ├── home-book-1.jpg
-│   │   ├── home-book-2.jpg
-│   │   ├── home-book-3.jpg
-│   │   └── home-book-4.jpg
-│   ├── js/
-│   │   ├── main.js
-│   │   ├── scrollreveal.min.js
-│   │   └── swiper-bundle.min.js
-│   └── scss/
-│       ├── base/
-│       │   └── _base.scss
-│       ├── components/
-│       │   ├── _breakpoints.scss
-│       │   ├── _button.scss
-│       │   ├── _discount.scss
-│       │   ├── _featured.scss
-│       │   ├── _footer.scss
-│       │   ├── _header.scss
-│       │   ├── _home.scss
-│       │   ├── _join.scss
-│       │   ├── _login.scss
-│       │   ├── _new.scss
-│       │   ├── _scroll.scss
-│       │   ├── _search.scss
-│       │   ├── _services.scss
-│       │   └── _testimonial.scss
-│       ├── config/
-│       │   └── _variables.scss
-│       ├── layout/
-│       │   └── _layout.scss
-│       ├── theme/
-│       │   └── _theme.scss
-│       └── styles.scss
-├── index.html
-└── README.md
+        Rise & Read/
+        ├── assets/
+        │   ├── css/
+        │   │   ├── styles.css
+        │   │   └── swiper-bundle.min.css
+        │   ├── img/
+        │   │   ├── home-book-1.jpg
+        │   │   ├── home-book-2.jpg
+        │   │   ├── home-book-3.jpg
+        │   │   └── home-book-4.jpg
+        │   ├── js/
+        │   │   ├── main.js
+        │   │   ├── scrollreveal.min.js
+        │   │   └── swiper-bundle.min.js
+        │   └── scss/
+        │       ├── base/
+        │       │   └── _base.scss
+        │       ├── components/
+        │       │   ├── _breakpoints.scss
+        │       │   ├── _button.scss
+        │       │   ├── _discount.scss
+        │       │   ├── _featured.scss
+        │       │   ├── _footer.scss
+        │       │   ├── _header.scss
+        │       │   ├── _home.scss
+        │       │   ├── _join.scss
+        │       │   ├── _login.scss
+        │       │   ├── _new.scss
+        │       │   ├── _scroll.scss
+        │       │   ├── _search.scss
+        │       │   ├── _services.scss
+        │       │   └── _testimonial.scss
+        │       ├── config/
+        │       │   └── _variables.scss
+        │       ├── layout/
+        │       │   └── _layout.scss
+        │       ├── theme/
+        │       │   └── _theme.scss
+        │       └── styles.scss
+        ├── index.html
+        └── README.md
 
 
 ## Setup
